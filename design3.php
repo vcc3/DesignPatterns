@@ -4,7 +4,7 @@
 //Mini Program #3 Builder/Observer/Adapter
   
 //Starting Observer
-  
+ 
   abstract class Observer  {
     abstract function update(Subject $playeronline);  
   }
@@ -14,7 +14,7 @@
     abstract function notify();
    }
   
- 
+// added comments 
  class PlayerObserve extends Observer{
    public function __construct(){
    }
