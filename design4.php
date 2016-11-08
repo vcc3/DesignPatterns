@@ -3,6 +3,7 @@
 //IS218 Designn Patterns
 //Mini Program #4 Adapter/Decorator/Strategy
 
+
 class IceCream{
     public $flavor;   
     public $other;
