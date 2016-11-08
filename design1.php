@@ -5,8 +5,6 @@
 // Program is for making a person for a couple,  then taking name and editting toegter as if they were getting married.
 
   
-
-  
 // Bridge Portion containing a strategy inside
 
 abstract class BridgeNames{
