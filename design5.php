@@ -3,7 +3,6 @@
 //IS218 Design Patterns
 //Mini Program #5 Singleton
 
-
 //Singleton Start
     class Blockbuster{
     
