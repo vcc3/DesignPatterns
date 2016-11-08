@@ -4,8 +4,6 @@
 //Mini Program #2 Factory/Decorator/Strategy
 
 
-
-
 // factory design that will create the "string" for the strategy and decorator to use.
  class carFactory {
      public static function createCar($brand)   {
