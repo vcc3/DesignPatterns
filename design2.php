@@ -73,7 +73,7 @@ class decorateExclaimation implements strategydecorator{
 }
 // this sub decorator class  thats just adds / after every word.
 class decorateSlashes implements strategydecorator{
-    public function showBrand($car)       
+    public function showBrand($car){      
         $brand = $car->getBrand();
         // the count is for the string text
         $this->stringCount++;        
